@@ -1,2 +1,2 @@
 # ThePretenderGame
-A game based off of the TV shot The Pretender.
+A game based off of the TV show The Pretender.
